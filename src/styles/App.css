@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#root {
+  max-width: 744px;
+  margin: 0 auto;
+  /* padding: 5.56vw 17.7vw; */
+  text-align: center;
+
+}
+#root>div:nth-child(2){
+  margin: auto;
+}

@@ -1,0 +1,1 @@
+export {FavoriteImages} from "./components/FavoriteImages/FavoriteImages"

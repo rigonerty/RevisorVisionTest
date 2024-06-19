@@ -1,0 +1,20 @@
+.Navbar{
+    display: flex;
+    width: 100%;
+    margin: 64px 0px 5px 0px;
+    >a{
+        width: 50%;
+        >button{
+            color: black;
+            text-transform: none;
+            font-size: 1em;
+            margin: 1em 0;
+        }
+    }
+
+    >.Selected>button{
+        background: #EDF9FF;
+        color:#117DC1;
+        box-shadow: none;
+    }
+}

@@ -1,0 +1,23 @@
+.FavoriteImages{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    align-items: center end;
+    justify-items: center;
+    >h6{
+        margin-top: 30px;
+        font-weight: 700;
+        font-size: 1.375rem;
+    }
+    >p{
+        font-size: 16px;
+    }
+    >div{
+        margin: 0 auto;
+    }
+}
+@media screen and (max-width: 600px) {
+    .FavoriteImages{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }    
+}
