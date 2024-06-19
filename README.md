@@ -16,5 +16,4 @@ npm i
 ```cmd
 npm run dev
 ```
-И радуемся что все работает! (Я надеюсь...)
-P.S Не забудьте запустить Api: https://github.com/Tozix/revisor-test-api
+И радуемся что все работает(Я надеюсь)! Не забудьте запустить Api: https://github.com/Tozix/revisor-test-api
